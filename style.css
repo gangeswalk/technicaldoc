@@ -20,5 +20,15 @@ body {
     height: 100%;
     border-right: solid;
     border-color:darkorange
-
 }
+
+
+header {
+    color:darkorange;
+    margin: 10px;
+    text-align: center;
+    font-size: 1.7rem;
+    font-weight: thin;
+}
+
+#main-doc header
