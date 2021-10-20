@@ -71,3 +71,7 @@ header {
 section article {
     margin: 15px
 }
+
+section li {
+    margin: 3px 0px 0px 20px;
+}
