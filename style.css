@@ -40,6 +40,8 @@ body {
 #navbar a {
     display: block;
     padding: 10px 30px;
+    color: darkorange;
+    text-decoration: none;
 }
 
 header {
