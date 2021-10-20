@@ -32,6 +32,6 @@ header {
 }
 
 #main-doc header {
-    test-align:left;
+    text-align:left;
     margin: 0px;
 }
