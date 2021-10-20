@@ -61,5 +61,6 @@ header {
 #main-doc {
     position: absolute;
     margin-left: 310px;
+    margin-top: 50px;
     padding: 20px;
 }
