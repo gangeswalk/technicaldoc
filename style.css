@@ -42,6 +42,7 @@ body {
     padding: 10px 30px;
     color: darkorange;
     text-decoration: none;
+    cursor:pointer;
 }
 
 header {
